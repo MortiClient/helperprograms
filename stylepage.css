@@ -22,7 +22,11 @@ body {
 .questions {
 	color: #fff;
 	font-family: 'VT323', monospace;
-	padding: 20px;
+	padding: 30px;
+}
+
+.content-questions {
+	border-bottom: 1px solid #fff;
 }
 
 .end-page {
