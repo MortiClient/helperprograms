@@ -19,7 +19,7 @@
 	<h2 class="questions">1/ C'est quoi HelperPrograms ?</h2>
 
 	<div style="background: #9e9e9e;padding: 5px" class="container">
-		<p style="color: #fff;"><i class="fas fa-terminal"></i> C'est un site qui propose des services d'aide sur des programmes c# et VB.NET</p>
+		<p style="color: #fff;"><i class="fas fa-terminal"></i> C'est un site qui propose des services d'aide sur des programmes C# et VB.NET</p>
 	</div>
 
 
