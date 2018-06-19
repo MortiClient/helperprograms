@@ -1,0 +1,41 @@
+body {
+	background-image: url('https://images.alphacoders.com/830/830349.png');
+	background-size: auto;
+	height: 100%;
+	min-height: 100%;
+  	margin: 0;
+  	padding: 0;
+  	position: relative;
+  	padding-bottom: 40px;
+  	-moz-box-sizing: border-box;
+  	box-sizing: border-box;
+}
+
+
+.title-presentation {
+	color: #fff;
+	font-family: 'VT323', monospace;
+	text-align: center;
+	font-size: 40px;
+}
+
+.questions {
+	color: #fff;
+	font-family: 'VT323', monospace;
+	padding: 20px;
+}
+
+.end-page {
+	color: #fff;
+	font-family: 'VT323', monospace;
+	font-size: 21px;
+	padding: 15px 10px;
+	text-align: center;
+}
+
+@media only and (max-width: 1024px) {
+	body {
+		background-size: cover;
+	}
+
+}
